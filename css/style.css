@@ -51,4 +51,9 @@ ol {
 }
 strong {
   color: black;
+  font-style: italic;
+}
+em {
+  color: darkkhaki;
+  font-style: italic;
 }
