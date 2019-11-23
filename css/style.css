@@ -29,3 +29,11 @@ h4 {
 body {
   background-color: olive;
 }
+img {
+  float: left;
+  flex-grow: initial;
+  flood-opacity: 0%;
+  block-size: 280px;
+  padding: 140px;
+  width: 250px;
+}
