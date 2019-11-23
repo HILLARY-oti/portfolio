@@ -43,3 +43,9 @@ p {
   font-style: oblique;
   font-family: serif;
 }
+ol {
+  color: aliceblue;
+  font-size: 28px;
+  font-family: sans-serif;
+  font-style: italic;
+}
