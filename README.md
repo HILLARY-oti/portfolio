@@ -11,7 +11,7 @@ This is a project of my own portfolio of the introduction to programing.
 Open my github repository
 click on the live link to view the project/portfolio.
 ## Link to site
-This is a live link to my site.
+This is a live link to my site.https://hillary-oti.github.io/portfolio/
 ### License & copyright
 MIT License
 
